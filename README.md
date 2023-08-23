@@ -1,8 +1,8 @@
 ### A little trivia for the interested -
 - 👋 Hi, I’m @TheCongaGuy
 - 👀 I’m interested in Machine Learning, Back End Development, Optimization and Time Wasting Puzzles
-- 🌱 I’m currently learning MIPS Assembly, linux development and Advanced Datastructures in C/C++
-- 🐯 I'm enrolled at WSU (Go Cougs!) as a Freshman, going for my BS in Computer Science
+- 🌱 I’m currently learning Software Design Principles, Web Development, and the History of Computer Science
+- 🐯 I'm enrolled at WSU (Go Cougs!) as a sophmore, going for my BS in Computer Science
 - 🐺 Ironically my sister just got accepted to UW (Screw The Huskies!) so there is a little sibling rivalry there
 
 <!---
